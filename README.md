@@ -1,18 +1,12 @@
-# ADS-599-Capstone-Project-Team 2
+# Personal Identifiable Information (PII) Data Detection ML Model
 
-## Personal Identifiable Information (PII) Data Detection ML Model
+This project is a part of the ADS-599 Capstone in the Applied Data Science Program at the University of San Diego.
 
-This project is a part of the ADS-599 Capstone course in the Applied Data Science Program at the University of San Diego.
+--**Project Status: [Active]**
 
---**Project Status:[Completed]**
+## Project Description
 
-## Project Intro
-
-As the field of data science expands, the issue of safeguarding Personal Identifiable Information (PII) has become increasingly important. An individual’s data privacy can easily be violated through big data dumps, leaks, or third-party data vendor exchanges. 
-Regarding education technology, known as the ed-tech industry, PII’s presence is a barrier to analyzing and creating open datasets that advance education because releasing the data publicly puts students at risk. To reduce these risks, it’s crucial to screen and cleanse educational data for PII before public release, which data science could streamline.
-
-Usually, entire datasets are manually reviewed to scan for PII because while it is the most reliable screening method, it is also time-consuming and increases the barriers to having accessible datasets. The goal of this project is to develop a machine-learning model that can automatically detect and remove PII from student submissions. This will ultimately help facilitate public dataset creation for researchers, improving the educational tools teachers and students use. 
-
+This project explored the development and evaluation of several machine learning algorithms designed to perform text classification tasks. These models targeted the detection of personal identifiable information (PII) within academic documents written by students. The objective of this project was to create a machine learning model that would accurately and precisely classify words considered PII while being efficient. Several algorithms were used such as Logistic Regression, Random Forest, Extreme-Gradient Boosting (XGBoost), K-Nearest Neighbors (K-NN), and Presidio. These models were all trained and tested using text data that was pre-processed using tokenization and feature engineering in addition to hyperparameter tuning methods such as RandomizedSearch and GridSearch. Ultimately, this study found that the Random Forest models performed the best in having a high accuracy with minimal false positives. This study was able to provide a demonstration on the usefulness of machine learning to enhance data privacy.
 
 ## Installation
 
@@ -34,23 +28,24 @@ git clone https://github.com/ebadakhter/ADS-599-Capstone-Project.git
 2. Jacqueline Vo
 3. Jiaqi He
 
+## Requirements
+
+To replicate this project, the following technology will be needed:
+- [Python](https://www.python.org/) Version 3.9
+- [Anaconda](https://www.anaconda.com/) Version 2024.02-1
+
+## Project Datasets
+- [Kaggle - The Learning Agency Lab PII Data Detection](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/data)
+  - train.json
+  - test.json
+
+Data was presented in JSON format which includes a document identifier, the full text of the essay, a list of tokens, information about whitespace, and token annotations.
+
 
 ## Methods Used
-- **Inferential Statistic**
-- **Text Mining**
+- **Logistic Regression**
+- **Random Forest**
+- **K-Nearest Neighbors**
+- **Extreme Gradient Boosting**
+- **Natural Language Processing**
 - **Predictive Modeling**
-- **Data Visualization**
-- **Modeling Evaluation**
-
-  
-## Technologies
-1. Python
-2. Google Drive
-3. Google Docs
-4. Jupyter Notebook
-5. VS Code
-
-
-## Acknowledgements
-1. Special thanks to Jiaqi (Kay) He (https://github.com/Kayhe93), Jacqueline Vo (https://github.com/jvo024)) and Ebad Akhter (https://github.com/ebadakhter)for working together on developing this project
-2. The SOLES Graduate Student Writing Center for reviewing and editing the project's article.
