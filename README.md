@@ -52,5 +52,5 @@ git clone https://github.com/ebadakhter/ADS-599-Capstone-Project.git
 
 
 ## Acknowledgements
-1. Special thanks to Jiaqi (Kay) He (https://github.com/Kayhe93), Jacqueline Vo (https://github.com/jvo024)) and Ebad Akhter (https://github.com/ebadakhter)for working together on developing this project
+1. Special thanks to Jiaqi (Kay) He (https://github.com/Kayhe93), Jacqueline Vo (https://github.com/jvo024)) and Ebad Akhter (https://github.com/ebadakhter) for working together on developing this project
 2. The SOLES Graduate Student Writing Center for reviewing and editing the project's article.
