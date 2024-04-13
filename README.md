@@ -24,14 +24,14 @@ git clone https://github.com/ebadakhter/ADS-599-Capstone-Project.git
 
 ## Contributors
 
-1. Ebad Akhter
-2. Jacqueline Vo
-3. Jiaqi He
+1. [Ebad Akhter] (https://github.com/ebadakhter)
+2. [Jacqueline Vo] (https://github.com/jvo024)
+3. [Jiaqi He] (https://github.com/Kayhe93)
 
 ## Requirements
 
 To replicate this project, the following technology will be needed:
-- [Python](https://www.python.org/) Version 3.9
+- [Python](https://www.python.org/) Version 3.9+
 - [Anaconda](https://www.anaconda.com/) Version 2024.02-1
 
 ## Project Datasets
