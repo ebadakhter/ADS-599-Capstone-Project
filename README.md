@@ -24,9 +24,9 @@ git clone https://github.com/ebadakhter/ADS-599-Capstone-Project.git
 
 ## Contributors
 
-1. [Ebad Akhter] (https://github.com/ebadakhter)
-2. [Jacqueline Vo] (https://github.com/jvo024)
-3. [Jiaqi He] (https://github.com/Kayhe93)
+1. [Ebad Akhter](https://github.com/ebadakhter)
+2. [Jacqueline Vo](https://github.com/jvo024)
+3. [Jiaqi He](https://github.com/Kayhe93)
 
 ## Requirements
 
